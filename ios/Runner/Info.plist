@@ -27,7 +27,7 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>NSCameraUsageDescription</key>
-    <string>Allow AR Painting app to use AR here.</string>
+    <string>Allow AR Museum app to use AR here.</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
